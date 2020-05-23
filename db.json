@@ -1,0 +1,214 @@
+{
+  "slots": [
+    {
+      "start": "09:00",
+      "finish": "10:00",
+      "date": "2020-05-23",
+      "isBooked": true,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "start": "10:00",
+      "finish": "11:00",
+      "date": "2020-05-23",
+      "isBooked": false
+    },
+    {
+      "id": 3,
+      "start": "11:00",
+      "finish": "12:00",
+      "date": "2020-05-23",
+      "isBooked": true
+    },
+    {
+      "id": 4,
+      "start": "12:00",
+      "finish": "13:00",
+      "date": "2020-05-23",
+      "isBooked": false
+    },
+    {
+      "id": 5,
+      "start": "13:00",
+      "finish": "14:00",
+      "date": "2020-05-23",
+      "isBooked": false
+    },
+    {
+      "id": 6,
+      "start": "14:00",
+      "finish": "15:00",
+      "date": "2020-05-23",
+      "isBooked": false
+    },
+    {
+      "id": 7,
+      "start": "15:00",
+      "finish": "16:00",
+      "date": "2020-05-23",
+      "isBooked": false
+    },
+    {
+      "id": 8,
+      "start": "09:00",
+      "finish": "10:00",
+      "date": "2020-05-24",
+      "isBooked": true
+    },
+    {
+      "id": 9,
+      "start": "10:00",
+      "finish": "11:00",
+      "date": "2020-05-24",
+      "isBooked": true
+    },
+    {
+      "id": 10,
+      "start": "11:00",
+      "finish": "12:00",
+      "date": "2020-05-24",
+      "isBooked": true
+    },
+    {
+      "id": 11,
+      "start": "12:00",
+      "finish": "13:00",
+      "date": "2020-05-24",
+      "isBooked": true
+    },
+    {
+      "id": 12,
+      "start": "13:00",
+      "finish": "14:00",
+      "date": "2020-05-24",
+      "isBooked": true
+    },
+    {
+      "id": 13,
+      "start": "14:00",
+      "finish": "15:00",
+      "date": "2020-05-24",
+      "isBooked": true
+    },
+    {
+      "id": 14,
+      "start": "15:00",
+      "finish": "16:00",
+      "date": "2020-05-24",
+      "isBooked": true
+    },
+    {
+      "id": 15,
+      "start": "08:00",
+      "finish": "09:00",
+      "date": "2020-05-25",
+      "isBooked": true
+    },
+    {
+      "id": 16,
+      "start": "09:00",
+      "finish": "10:00",
+      "date": "2020-05-25",
+      "isBooked": true
+    },
+    {
+      "id": 17,
+      "start": "10:00",
+      "finish": "11:00",
+      "date": "2020-05-25",
+      "isBooked": true
+    },
+    {
+      "id": 18,
+      "start": "11:00",
+      "finish": "12:00",
+      "date": "2020-05-25",
+      "isBooked": false
+    },
+    {
+      "id": 19,
+      "start": "12:00",
+      "finish": "13:00",
+      "date": "2020-05-25",
+      "isBooked": false
+    },
+    {
+      "id": 20,
+      "start": "13:00",
+      "finish": "14:00",
+      "date": "2020-05-25",
+      "isBooked": false
+    },
+    {
+      "id": 21,
+      "start": "14:00",
+      "finish": "15:00",
+      "date": "2020-05-25",
+      "isBooked": false
+    },
+    {
+      "id": 23,
+      "start": "16:00",
+      "finish": "16:00",
+      "date": "2020-05-25",
+      "isBooked": false
+    },
+    {
+      "id": 24,
+      "start": "08:00",
+      "finish": "09:00",
+      "date": "2020-05-26",
+      "isBooked": true
+    },
+    {
+      "id": 25,
+      "start": "09:00",
+      "finish": "10:00",
+      "date": "2020-05-26",
+      "isBooked": true
+    },
+    {
+      "id": 26,
+      "start": "10:00",
+      "finish": "11:00",
+      "date": "2020-05-26",
+      "isBooked": true
+    },
+    {
+      "id": 27,
+      "start": "11:00",
+      "finish": "12:00",
+      "date": "2020-05-26",
+      "isBooked": false
+    },
+    {
+      "id": 28,
+      "start": "12:00",
+      "finish": "13:00",
+      "date": "2020-05-26",
+      "isBooked": false
+    },
+    {
+      "id": 29,
+      "start": "13:00",
+      "finish": "14:00",
+      "date": "2020-05-26",
+      "isBooked": false
+    },
+    {
+      "id": 30,
+      "start": "14:00",
+      "finish": "15:00",
+      "date": "2020-05-26",
+      "isBooked": false
+    },
+    {
+      "id": 31,
+      "start": "16:00",
+      "finish": "16:00",
+      "date": "2020-05-26",
+      "isBooked": false
+    }
+  ]
+}
